@@ -18,10 +18,10 @@ El gestor de base de datos es MySQL, en entorno XAMPP.
 create database reposteria
 
 CREATE TABLE `categorias` (
-`ID_catego` int(11) NOT NULL,
-`Nom_catego` varchar(20) NOT NULL,
-`Nom_Produ` varchar(30) NOT NULL,
-`Stock` varchar(20) NOT NULL
+  `id_cate` int(11) NOT NULL,
+  `nombre_cate` varchar(20) NOT NULL,
+  `precio` varchar(30) NOT NULL,
+  `stock` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 ```
