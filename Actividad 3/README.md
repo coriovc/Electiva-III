@@ -9,7 +9,7 @@ Aplicación Java en modo gráfico, para crear un mantenimiento sencillo hacia un
 3.  Eliminar un registro.
 4.  Mostrar el contenido de la tabla.
 
-Tema: Ferretería
+Tema: Reposteria
 -     Tabla: Categorías
 #
 
@@ -44,10 +44,3 @@ Conexión
 </persistence>
 
 ```
-
-#
-
-![1](https://user-images.githubusercontent.com/25255847/27245139-166f3c6a-52a7-11e7-819d-700ca44ed323.png)
-![2](https://user-images.githubusercontent.com/25255847/27245136-15ee8390-52a7-11e7-8e4c-762b467859f5.png)
-![3](https://user-images.githubusercontent.com/25255847/27245138-165436e0-52a7-11e7-8ea8-8141161c8539.png)
-
